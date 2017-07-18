@@ -1,0 +1,1 @@
+openssl rsautl -encrypt -inkey public_key.pem -pubin -in key.bin -out key.bin.enc
